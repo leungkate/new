@@ -11,7 +11,7 @@
 <img src="https://www.naceweb.org/uploadedImages/images/2017/feature/legal-issues-stem-opt-rule-impact.jpg" height="500" width="840" />
 
 <p>Please select one of the following versions:</p>
-<p>1. <a href="file:///C:\Users\17046354d\Desktop\final"><span>Excel version</span></a></p>
+<p>1. <a href="file:///C:\Users\17046354d\Desktop\final">Link 1</a>
 <p>2. <a href=""><span>PDF version</span></a></p>
 <p>3. <a href="webpage.html"><span>Interactive version</span></a></p>
 
